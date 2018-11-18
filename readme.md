@@ -18,8 +18,6 @@ sudo apt-get install -y nodejs
 ```bash
 npm add hapi nodemon
 ```
-
-
 ### Install mongoDb
 ```bash
 sudo apt install -y mongodb
